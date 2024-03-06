@@ -2,7 +2,9 @@
 
 ![ESP-Uno](https://github.com/silverRnk/pdb-electronics/blob/main/esp-uno/3D_View.png)
 ## [ESP Uno](https://github.com/silverRnk/pdb-electronics/tree/main/esp-uno)
+	* 4 Layer PCB Board
 	* ESP32-S2FN4R2 based design
+	* 40MHz External Oscillator
 	* 45 GPIO pin
 	* 1 Jtag connecter via J6 connector, 1 Tag-connect connector via J5 connector
 	* MC3149 Accelorometer
